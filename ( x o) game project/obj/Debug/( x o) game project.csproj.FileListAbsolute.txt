@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\( x o) game project\bin\Debug\( x o) game project.exe.config
+C:\Users\Dell\source\repos\( x o) game project\bin\Debug\( x o) game project.exe
+C:\Users\Dell\source\repos\( x o) game project\bin\Debug\( x o) game project.pdb
+C:\Users\Dell\source\repos\( x o) game project\obj\Debug\( x o) game project.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\( x o) game project\obj\Debug\__x_o__game_project.Form1.resources
+C:\Users\Dell\source\repos\( x o) game project\obj\Debug\__x_o__game_project.Properties.Resources.resources
+C:\Users\Dell\source\repos\( x o) game project\obj\Debug\( x o) game project.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\( x o) game project\obj\Debug\( x o) game project.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\( x o) game project\obj\Debug\( x o) game project.exe
+C:\Users\Dell\source\repos\( x o) game project\obj\Debug\( x o) game project.pdb
+C:\Users\Dell\source\repos\( x o) game project\bin\Debug\Guna.UI2.dll
+C:\Users\Dell\source\repos\( x o) game project\obj\Debug\( x o) g.1966A2E0.Up2Date
+C:\Users\Dell\source\repos\( x o) game project\obj\Debug\__x_o__game_project.Form2.resources
+C:\Users\Dell\source\repos\( x o) game project\obj\Debug\__x_o__game_project.ONE_VS_ONE.resources
